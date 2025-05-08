@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/App.dir/ColourfulTriangles.cpp.o CMakeFiles/App.dir/src/glad.c.o -o App  /usr/local/lib64/libglfw3.a -ldl /usr/lib64/librt.a -lm -ldl
